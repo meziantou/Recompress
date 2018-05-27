@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Recompress": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Musics"
+    }
+  }
+}
